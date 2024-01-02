@@ -26,5 +26,5 @@
 
 ## 🌐 Redes: 
 <div align = "left">
-<img src="https://github.com/vitcuellar/VitCuellar/assets/146594135/0632036e-5c95-4a54-a4c3-ea72ffa21fdd" width="50px" (https://www.linkedin.com/in/vitoria-cuellar/)/>
+<img src="https://github.com/vitcuellar/VitCuellar/assets/146594135/0632036e-5c95-4a54-a4c3-ea72ffa21fdd" width="30px"> Link:  https://www.linkedin.com/in/vitoria-cuellar/
  
