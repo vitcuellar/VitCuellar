@@ -2,10 +2,11 @@
 
 ## 💬 Um pouco sobre mim:
 
-- 👷 Sou Bacharel em Engenharia Química pela Universidade Federal do Pará (UFPA). Atuei pelo MEJ (Movimento Empresa Júnior) no Pará e fui VP da Covalente Jr.
-- 💻 Atuo com Análise de Dados há mais de 4 anos com foco em desenvolvimento de inteligência para negócios. Tenho experiência em diversas áreas de negócio, desde frentes mais comerciais, financeiras até gestão de pessoas.
-- 💾 No último ano, desenvolvi trabalho como Data Analyst em BU de Wealth no Mercado Financeiro. 
-- 🔭 Atualmente estou focada em me desenvolver na frente de Analytics Engineer e me aprofundar em análise de dados.  
+- 👷 Sou Bacharel em Engenharia Química pela Universidade Federal do Pará (UFPA) e atualmente curso Pós-Graduação em Data Science pela Universidade Tecnológica Federal do Paraná.
+- 💻 Atuo na área de dados há mais de 5 anos, passei por escopo de Análise de Dados a Engenharia de Dados. Nesse tempo, atuei em diversos projetos com foco em desenvolvimento de inteligência para negócios: dashboards, tabelas, camada semântica e outros produtos de dados robustos. 
+- 🔭 Atualmente estou trabalhando no Grupo Boticário como Engenheira de Dados Sênior em uma frente voltada para dados de Pessoas e Plataformas. Mas, tenho experiência em diversas áreas de negócio: Comercial, Vendas, Mercado Financeiro, B2B, Gente e Gestão.
+
+Aqui eu armazeno meus principais projetos pessoais. Espero que te sejam úteis!
 
 ## 💻 Hardskills: 
 
@@ -28,6 +29,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-cuellar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vialmeidacuellar@gmail.com)
-[![Medium](https://logowik.com/content/uploads/images/medium4864.jpg)](https://medium.com/@vialmeidacuellar)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@vialmeidacuellar)
 
 
