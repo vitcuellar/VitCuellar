@@ -1,4 +1,5 @@
 # Welcome! I'm Vit, it's good to have you here.
+[![Leia em Português](https://img.shields.io/badge/Ler%20em-Inglês-blue)](README.md)
 
 ## 💬 About me:
 
