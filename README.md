@@ -25,7 +25,7 @@ Aqui eu armazeno meus principais projetos pessoais. Espero que te sejam úteis!
 <div align = "left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
 <div align = "left">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="50px"
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="50px"/>
 
 ## 🌐 Redes: 
 
