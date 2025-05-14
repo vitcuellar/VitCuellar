@@ -28,5 +28,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-cuellar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vialmeidacuellar@gmail.com)
+[![Medium](https://logowik.com/content/uploads/images/medium4864.jpg)](https://medium.com/@vialmeidacuellar)
 
 
