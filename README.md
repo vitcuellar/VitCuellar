@@ -1,5 +1,8 @@
 # Bem vindo! Sou a Vitória, prazer te ter por aqui!👋
 
+[![Leia em Inglês](https://img.shields.io/badge/Ler%20em-Inglês-blue)](READme_en)
+
+
 ## 💬 Um pouco sobre mim:
 
 - 👷 Sou Bacharel em Engenharia Química pela Universidade Federal do Pará (UFPA) e atualmente curso Pós-Graduação em Data Science pela Universidade Tecnológica Federal do Paraná.
