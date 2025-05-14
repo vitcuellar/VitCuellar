@@ -24,6 +24,8 @@ Aqui eu armazeno meus principais projetos pessoais. Espero que te sejam úteis!
 <img src="https://github.com/vitcuellar/VitCuellar/assets/146594135/1d3af1f1-def7-47c8-8b16-c0917e34ff6b" width="50px" /
 <div align = "left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
+<div align = "left">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="50px"
 
 ## 🌐 Redes: 
 
