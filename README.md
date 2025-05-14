@@ -27,8 +27,9 @@ Aqui eu armazeno meus principais projetos pessoais. Espero que te sejam úteis!
 <div align = "left">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="50px"/
 <div align = "left">
-<img src="file:///Users/vitoria.cuellar/Downloads/airflow-svgrepo-com.svg" width="50px"/>
+<img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="50px"/ >
 
+/>
 ## 🌐 Redes: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-cuellar/)
