@@ -27,7 +27,7 @@ Aqui eu armazeno meus principais projetos pessoais. Espero que te sejam úteis!
 <div align = "left">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="50px"/
 <div align = "left">
-<img src="![image](https://github.com/user-attachments/assets/79d03f8d-20cd-4681-b114-44d4150eb265)" width="50px"/>
+<img src="file:///Users/vitoria.cuellar/Downloads/airflow-svgrepo-com.svg" width="50px"/>
 
 ## 🌐 Redes: 
 
