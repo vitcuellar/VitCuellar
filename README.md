@@ -1,6 +1,6 @@
 # Bem vindo! Sou a Vitória, prazer te ter por aqui!👋
 
-[![Read in English](https://img.shields.io/badge/Ler%20em-Inglês-blue)](READme_en.md)
+[![Read in English](https://img.shields.io/badge/Read%20in-English-blue)](READme_en.md)
 
 
 ## 💬 Um pouco sobre mim:
