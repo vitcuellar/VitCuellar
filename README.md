@@ -6,7 +6,7 @@
 ## 💬 Um pouco sobre mim:
 
 - 👷 Sou Bacharel em Engenharia Química pela Universidade Federal do Pará (UFPA) e atualmente curso Pós-Graduação em Data Science pela Universidade Tecnológica Federal do Paraná.
-- 💻 Atuo na área de dados há mais de 5 anos, passei por escopo de Análise de Dados a Engenharia de Dados. Nesse tempo, atuei em diversos projetos com foco em desenvolvimento de inteligência para negócios: dashboards, tabelas, camada semântica e outros produtos de dados robustos. 
+- 💻 Tenho 6 anos de experiência na área de dados, passei por escopo de Análise de Dados a Engenharia de Dados. Nesse tempo, atuei em diversos projetos com foco em desenvolvimento de inteligência para negócios: dashboards, tabelas, camada semântica e outros produtos de dados robustos. 
 - 🔭 Atualmente estou trabalhando no Grupo Boticário como Engenheira de Dados Sênior em uma frente voltada para dados de Pessoas e Plataformas. Mas, tenho experiência em diversas áreas de negócio: Comercial, Vendas, Mercado Financeiro, B2B, Gente e Gestão.
 
 Aqui eu armazeno meus principais projetos pessoais. Espero que te sejam úteis!
